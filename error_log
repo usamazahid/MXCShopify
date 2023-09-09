@@ -1,0 +1,254 @@
+[27-Jul-2023 12:35:44 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 10
+[27-Jul-2023 12:35:44 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 63
+[27-Jul-2023 12:35:44 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 12:35:51 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 12:35:58 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 10
+[27-Jul-2023 12:35:58 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 63
+[27-Jul-2023 12:35:59 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 10
+[27-Jul-2023 12:35:59 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 63
+[27-Jul-2023 12:36:02 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 12:36:04 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 10
+[27-Jul-2023 12:36:04 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 63
+[27-Jul-2023 12:36:28 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 12:36:28 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 10
+[27-Jul-2023 12:36:28 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 63
+[27-Jul-2023 12:46:17 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 12:46:42 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 12:47:00 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 12:47:15 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 12:47:34 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 12:47:53 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 12:50:04 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 12:51:06 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 12:56:31 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 12:57:12 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 12:58:40 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 12:58:42 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 12:59:04 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 11
+[27-Jul-2023 12:59:04 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[27-Jul-2023 12:59:04 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 13:24:54 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 13:27:19 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[27-Jul-2023 13:27:19 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 11
+[27-Jul-2023 13:27:19 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[27-Jul-2023 19:10:08 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[02-Aug-2023 05:42:35 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/variables.php on line 18
+[02-Aug-2023 05:42:35 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[02-Aug-2023 05:42:42 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/variables.php on line 18
+[02-Aug-2023 05:42:43 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[02-Aug-2023 05:43:27 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/variables.php on line 18
+[02-Aug-2023 05:43:28 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[02-Aug-2023 05:43:31 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/variables.php on line 18
+[02-Aug-2023 05:43:32 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[02-Aug-2023 05:43:46 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/variables.php on line 18
+[02-Aug-2023 05:43:48 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/variables.php on line 18
+[02-Aug-2023 05:43:49 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/variables.php on line 18
+[02-Aug-2023 05:45:08 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/variables.php on line 18
+[02-Aug-2023 05:45:08 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[02-Aug-2023 05:45:12 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/variables.php on line 18
+[02-Aug-2023 05:45:12 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[02-Aug-2023 10:10:55 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/variables.php on line 18
+[02-Aug-2023 10:10:55 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[02-Aug-2023 10:11:00 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/variables.php on line 18
+[02-Aug-2023 10:11:00 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[02-Aug-2023 10:29:39 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/variables.php on line 18
+[02-Aug-2023 10:29:40 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[03-Aug-2023 21:17:22 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[10-Aug-2023 18:11:18 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[15-Aug-2023 20:32:18 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 20:33:19 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 20:34:12 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 20:54:09 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 20:54:18 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 20:55:21 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 20:55:33 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 20:56:20 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 20:56:33 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 20:57:04 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 20:57:17 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 20:58:51 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:02:44 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:03:46 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:13:16 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:14:18 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:14:27 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:24:45 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:24:55 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:24:55 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:25:32 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:26:21 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:27:33 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:27:53 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:28:55 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:31:16 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:32:54 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:35:18 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:41:59 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 21:42:08 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 21:43:32 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:43:36 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:44:19 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 21:44:27 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 21:44:38 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 21:44:38 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 21:44:42 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 21:44:42 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 21:45:37 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 21:45:42 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 21:45:43 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 21:45:50 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:45:56 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:45:57 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:46:13 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:47:37 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:47:42 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:48:29 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:48:31 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:50:11 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:51:06 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:51:14 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:51:34 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 21:51:35 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 21:51:52 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 21:51:52 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[15-Aug-2023 21:52:08 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:52:12 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:52:47 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 21:52:49 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 63
+[15-Aug-2023 22:01:37 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[15-Aug-2023 22:01:44 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[15-Aug-2023 22:01:57 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[15-Aug-2023 22:02:06 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[15-Aug-2023 22:02:06 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[15-Aug-2023 22:05:16 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[15-Aug-2023 22:05:19 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[15-Aug-2023 22:14:08 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[15-Aug-2023 22:38:44 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[15-Aug-2023 23:14:52 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[16-Aug-2023 00:39:02 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 00:39:06 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 00:39:46 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 00:39:46 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 00:39:50 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 00:39:50 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 00:40:32 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 04:30:15 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 04:30:20 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 12:47:48 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[16-Aug-2023 12:47:53 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[16-Aug-2023 12:47:56 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[16-Aug-2023 15:54:28 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[16-Aug-2023 15:54:47 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[16-Aug-2023 15:55:08 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 15:55:19 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 16:54:30 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 16:54:38 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 16:55:16 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 16:55:19 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 16:55:19 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 16:55:53 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 16:55:56 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 19:57:52 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 19:58:00 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 19:58:28 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 19:59:09 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 19:59:16 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 19:59:39 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 19:59:47 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 20:07:44 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 20:07:54 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[16-Aug-2023 20:08:21 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[16-Aug-2023 20:08:26 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[17-Aug-2023 10:37:35 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[17-Aug-2023 10:37:43 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[17-Aug-2023 10:38:04 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 10:47:25 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 10:47:29 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 12:14:14 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 12:14:34 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 17:56:50 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 17:57:18 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 17:57:18 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 17:57:43 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 17:58:31 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 17:58:43 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 18:15:06 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[17-Aug-2023 18:15:52 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 18:15:54 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 18:18:22 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 18:18:26 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 18:18:39 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 18:18:40 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 18:28:47 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[17-Aug-2023 18:28:51 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[18-Aug-2023 10:24:58 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[18-Aug-2023 10:25:06 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[18-Aug-2023 10:26:43 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[18-Aug-2023 10:26:47 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[18-Aug-2023 15:09:33 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[18-Aug-2023 15:09:37 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[18-Aug-2023 15:39:54 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[18-Aug-2023 15:39:57 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[19-Aug-2023 11:39:28 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[19-Aug-2023 11:39:36 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[19-Aug-2023 13:46:04 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[19-Aug-2023 13:46:07 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[19-Aug-2023 13:46:50 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order-print.php on line 62
+[19-Aug-2023 13:46:51 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order-print.php on line 62
+[19-Aug-2023 13:46:53 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order-print.php on line 62
+[19-Aug-2023 13:46:53 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order-print.php on line 62
+[19-Aug-2023 13:47:13 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[19-Aug-2023 13:47:16 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[19-Aug-2023 13:47:17 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[19-Aug-2023 18:05:55 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[19-Aug-2023 18:06:08 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[21-Aug-2023 18:00:44 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[21-Aug-2023 18:00:58 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[21-Aug-2023 18:10:11 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[21-Aug-2023 18:20:56 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[21-Aug-2023 18:21:32 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[22-Aug-2023 01:13:42 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[22-Aug-2023 12:45:30 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[22-Aug-2023 12:45:35 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[22-Aug-2023 12:49:11 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order-print.php on line 62
+[22-Aug-2023 12:49:14 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order-print.php on line 62
+[22-Aug-2023 23:16:35 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[23-Aug-2023 21:20:39 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[23-Aug-2023 21:20:59 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[23-Aug-2023 21:21:54 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[23-Aug-2023 21:22:00 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[24-Aug-2023 18:15:02 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[24-Aug-2023 18:43:49 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[25-Aug-2023 15:37:33 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order-print.php on line 62
+[25-Aug-2023 15:37:35 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order-print.php on line 62
+[25-Aug-2023 15:37:55 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[25-Aug-2023 15:37:58 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[25-Aug-2023 15:37:58 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[25-Aug-2023 15:38:28 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[25-Aug-2023 15:38:29 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[25-Aug-2023 15:38:32 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[25-Aug-2023 15:42:55 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[25-Aug-2023 15:42:58 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[25-Aug-2023 15:52:43 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[25-Aug-2023 15:52:46 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[28-Aug-2023 14:29:09 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[28-Aug-2023 14:29:12 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[28-Aug-2023 14:30:03 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[28-Aug-2023 14:30:06 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[28-Aug-2023 14:31:34 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[28-Aug-2023 14:31:38 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[28-Aug-2023 14:32:04 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[28-Aug-2023 14:32:09 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[29-Aug-2023 03:20:57 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[29-Aug-2023 12:25:22 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[29-Aug-2023 12:25:29 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[29-Aug-2023 14:45:58 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[29-Aug-2023 14:46:01 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[30-Aug-2023 11:45:41 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[30-Aug-2023 11:45:46 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/bulk-order.php on line 64
+[31-Aug-2023 11:42:21 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[31-Aug-2023 11:42:29 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[31-Aug-2023 18:10:56 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33
+[01-Sep-2023 16:21:45 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[01-Sep-2023 16:21:51 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/mxclogistics/public_html/api/MXCShopify/single-order.php on line 65
+[07-Sep-2023 18:10:08 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/index.php on line 33

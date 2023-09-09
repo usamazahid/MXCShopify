@@ -1,0 +1,47 @@
+[05-Sep-2022 14:53:23 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home4/nr6grat3/public_html/api/MXCShopify/inc/create_order.php on line 266
+[05-Sep-2022 20:45:02 Asia/Karachi] PHP Warning:  mysql_query(): MySQL server has gone away in /home4/nr6grat3/public_html/api/MXCShopify/inc/create_order.php on line 153
+[05-Sep-2022 20:45:02 Asia/Karachi] PHP Warning:  mysql_query(): Error reading result set's header in /home4/nr6grat3/public_html/api/MXCShopify/inc/create_order.php on line 153
+[05-Sep-2022 20:45:02 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/nr6grat3/public_html/api/MXCShopify/inc/create_order.php on line 153
+[05-Sep-2022 20:45:02 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/nr6grat3/public_html/api/MXCShopify/inc/create_order.php on line 162
+[05-Sep-2022 20:45:02 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/nr6grat3/public_html/api/MXCShopify/inc/create_order.php on line 193
+[09-Sep-2022 16:42:02 Asia/Karachi] PHP Warning:  mysql_query(): MySQL server has gone away in /home4/nr6grat3/public_html/api/MXCShopify/inc/create_order.php on line 289
+[09-Sep-2022 16:42:02 Asia/Karachi] PHP Warning:  mysql_query(): Error reading result set's header in /home4/nr6grat3/public_html/api/MXCShopify/inc/create_order.php on line 289
+[20-Oct-2022 15:12:23 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[31-Oct-2022 19:14:25 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[31-Oct-2022 19:18:42 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[01-Nov-2022 14:12:18 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[03-Nov-2022 13:14:19 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[03-Nov-2022 13:16:22 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[04-Nov-2022 12:15:17 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[04-Nov-2022 14:26:52 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[05-Nov-2022 17:33:36 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[07-Nov-2022 17:02:07 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[07-Nov-2022 19:22:24 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[08-Nov-2022 15:40:25 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[08-Nov-2022 15:45:13 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[08-Nov-2022 15:47:40 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[09-Nov-2022 14:52:23 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[09-Nov-2022 14:55:55 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[23-Feb-2023 15:22:51 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[23-Feb-2023 15:32:27 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[01-Mar-2023 17:23:50 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[06-Mar-2023 18:27:32 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[07-Mar-2023 16:11:01 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[11-Mar-2023 10:45:27 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[16-Mar-2023 15:09:38 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 153
+[30-Mar-2023 11:33:03 Asia/Karachi] PHP Warning:  Illegal string offset 'response' in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 266
+[02-May-2023 11:35:17 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 154
+[02-May-2023 21:09:32 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 154
+[31-May-2023 17:02:43 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 154
+[31-May-2023 17:04:50 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 154
+[31-May-2023 17:09:26 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 154
+[15-Jun-2023 16:57:35 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 154
+[15-Jun-2023 17:22:46 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 154
+[15-Jun-2023 17:24:01 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 154
+[18-Jul-2023 15:43:54 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 154
+[20-Jul-2023 15:09:09 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 154
+[24-Jul-2023 14:35:23 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 154
+[25-Jul-2023 12:52:21 Asia/Karachi] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 154
+[27-Jul-2023 00:44:08 Asia/Karachi] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 274
+[27-Jul-2023 00:48:23 Asia/Karachi] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 274
+[09-Aug-2023 23:35:40 Asia/Karachi] PHP Warning:  curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument in /home/mxclogistics/public_html/api/MXCShopify/inc/create_order.php on line 35
