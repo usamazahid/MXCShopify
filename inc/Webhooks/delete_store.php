@@ -2,7 +2,7 @@
 require_once("../variables.php");
 require_once("../functions.php");
 
-define('SHOPIFY_APP_SECRET', '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'); // Replace with your SECRET KEY
+define('SHOPIFY_APP_SECRET', ''); // Replace with your SECRET KEY
 
 function verify_webhook($data, $hmac_header)
 {
